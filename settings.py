@@ -15,7 +15,7 @@ def open_settings_menu(frame, cursor_position, click_flag, set_current_menu_call
     # Draw the Exit Button
     # -------------------------
     # Position and size of the exit button
-    btn_x, btn_y = 20, 20
+    btn_x, btn_y = 120, 20
     btn_w, btn_h = 200, 100
     button_color = (200, 200, 200)  # Light gray background
     hover_color = (0, 255, 0)       # Green highlight on hover
